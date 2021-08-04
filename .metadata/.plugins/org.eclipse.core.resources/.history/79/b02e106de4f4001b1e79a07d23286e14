@@ -1,0 +1,91 @@
+package com.jda.bank;
+import java.util.Random;
+
+public class BankAccount {
+	private double checking;
+	private double savings;
+	private Long accountNumber;
+	private static int accounts = 0;
+	private static double total = 0;
+	
+	public BankAccount() {
+		accounts ++;
+		this.setChecking(0);
+		this.setSavings(0);
+	}
+	
+	public BankAccount(int chk, int sav) {
+		accounts ++;
+		total += chk;
+		total += sav;
+		this.setChecking(chk);
+		this.setSavings(sav);
+	}
+
+	public double getChecking() {
+		return checking;
+	}
+
+	public void setChecking(double checking) {
+		this.checking = checking;
+	}
+
+	public double getSavings() {
+		return savings;
+	}
+
+	public void setSavings(double savings) {
+		this.savings = savings;
+	}
+
+	public void deposit(String acc, double amount) {
+		if(acc=="checking") {
+			this.setChecking(this.getChecking()+amount);
+			total+=amount;
+		}
+		else if(acc=="saving") {
+			this.setSavings(this.getSavings()+amount);
+			total+=amount;
+		}
+	}
+	
+	public void withdraw(String acc, double amount) {
+		if(acc == "checking") {
+			if(this.getChecking()<amount) {
+				System.out.println("Insufficient Funds");
+			}
+			else {
+				this.setChecking(this.getChecking()-amount);
+				System.out.println("Withdrew " + amount);
+			}
+		}
+		else if(acc == "saving") {
+			
+		}
+	}
+	
+	private Long makeNumber() {
+		Long num;
+		return 
+	}
+	
+	public static int getAccounts() {
+		return accounts;
+	}
+
+	public static void setAccounts(int accounts) {
+		BankAccount.accounts = accounts;
+	}
+
+	public static double getTotal() {
+		return total;
+	}
+
+	public static void setTotal(double total) {
+		BankAccount.total = total;
+	}
+
+	public static void numberAccounts() {
+		System.out.println(accounts);
+	}
+}

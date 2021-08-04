@@ -1,0 +1,14 @@
+package com.jda.abs;
+
+public class AbstractTester {
+
+	public AbstractTester() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

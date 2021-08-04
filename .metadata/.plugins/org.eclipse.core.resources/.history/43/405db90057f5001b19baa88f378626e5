@@ -1,0 +1,21 @@
+package com.jda.abs;
+
+public abstract class AbstractDemo implements InterfaceDemo {
+
+	public AbstractDemo() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void methodOne() {
+		System.out.println("Hello from abstract demo");
+
+	}
+
+	@Override
+	public void methodTwo() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

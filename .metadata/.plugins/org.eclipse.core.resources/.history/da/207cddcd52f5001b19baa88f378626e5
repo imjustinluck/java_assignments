@@ -1,0 +1,21 @@
+package com.jda.inter;
+
+public class Bicycle implements OperateBicycle {
+
+	public Bicycle() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void speedUp(int increment) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void applyBrakes(int decrement) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

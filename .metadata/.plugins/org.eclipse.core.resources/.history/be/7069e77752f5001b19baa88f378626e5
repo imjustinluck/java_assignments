@@ -1,0 +1,8 @@
+package com.jda.inter;
+
+public interface OperateBicycle {
+	public static final double myConstant = 3.0;
+	
+	void speedUp(int increment);
+	void applyBrakes(int decrement);
+}

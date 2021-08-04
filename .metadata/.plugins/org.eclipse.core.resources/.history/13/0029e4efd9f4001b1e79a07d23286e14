@@ -1,0 +1,15 @@
+package com.jda.bank;
+
+public class BankTest {
+
+	public BankTest() {
+	}
+
+	public static void main(String[] args) {
+		BankAccount b = new BankAccount();
+		
+		BankAccount.numberAccounts();
+
+	}
+
+}

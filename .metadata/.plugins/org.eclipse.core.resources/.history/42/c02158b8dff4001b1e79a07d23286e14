@@ -1,0 +1,14 @@
+package com.jda.puzzle;
+import java.util.Random;
+
+public class PuzzleJava {
+
+	public PuzzleJava() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	Random r = new Random();
+	
+	
+
+}

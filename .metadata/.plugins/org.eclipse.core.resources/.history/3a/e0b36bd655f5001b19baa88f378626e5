@@ -1,0 +1,5 @@
+package com.jda.abs;
+
+public interface InterfaceDemo {
+
+}

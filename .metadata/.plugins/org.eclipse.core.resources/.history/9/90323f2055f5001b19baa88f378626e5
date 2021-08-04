@@ -1,0 +1,9 @@
+package com.jda.abs;
+
+public abstract class AbstractClass {
+
+	public AbstractClass() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

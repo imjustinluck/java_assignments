@@ -1,0 +1,14 @@
+package com.jda.poke;
+
+public class Pokedex extends AbstractPokemon {
+
+	public Pokedex() {
+	}
+
+	@Override
+	public void listPokemon() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

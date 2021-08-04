@@ -1,0 +1,16 @@
+package com.jda.poke;
+import java.util.ArrayList;
+
+public class Pokedex extends AbstractPokemon {
+	public static ArrayList<Pokemon> myPokemons = new ArrayList<Pokemon>();
+	
+	public Pokedex() {
+	}
+
+	@Override
+	public void listPokemon() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

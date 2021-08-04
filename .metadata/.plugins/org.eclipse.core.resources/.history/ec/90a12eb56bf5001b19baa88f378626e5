@@ -1,0 +1,16 @@
+package com.jda.poke;
+
+public class Pokemon {
+	
+	private String name;
+	private int health;
+	private String type;
+	
+	public Pokemon() {
+		// TODO Auto-generated constructor stub
+	}
+
+	void attackPokemon(Pokemon pokemon) {
+		
+	}
+}

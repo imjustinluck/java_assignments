@@ -1,0 +1,9 @@
+package com.jda.abs;
+
+public class ClassDemo extends AbstractDemo {
+
+	public ClassDemo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

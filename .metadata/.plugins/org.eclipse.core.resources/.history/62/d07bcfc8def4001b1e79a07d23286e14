@@ -1,0 +1,10 @@
+package com.jda.puzzle;
+import java.util.Random;
+
+public class Random {
+
+	public Random() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

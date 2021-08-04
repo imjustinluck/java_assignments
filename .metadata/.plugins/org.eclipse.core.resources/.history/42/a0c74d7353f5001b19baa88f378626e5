@@ -1,0 +1,14 @@
+package com.jda.inter;
+
+public class BicycleTest {
+
+	public BicycleTest() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		System.out.println(Bicycle.myConstant);
+
+	}
+
+}

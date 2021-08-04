@@ -1,0 +1,12 @@
+package com.jda.inter;
+
+public interface OperateBicycle {
+	public static final double myConstant = 3.0;
+	
+	default void sayHello() {
+		System.out.println("Hello!");
+	}
+	
+	void speedUp(int increment);
+	void applyBrakes(int decrement);
+}
