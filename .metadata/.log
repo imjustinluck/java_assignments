@@ -1589,3 +1589,462 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY Activator 1 0 2021-08-04 18:23:29.907
 !MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:28:31.679
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:28:32.252
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:30:05.785
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:30:06.362
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:30:08.034
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:30:08.672
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:32:46.018
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:32:46.629
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:34:54.455
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:34:55.026
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:40:57.055
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:40:57.687
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:41:05.621
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:41:06.190
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:42:20.580
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:42:21.122
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:43:07.573
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:43:08.135
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:45:21.616
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:45:22.234
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:48:23.218
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:48:23.773
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:49:09.584
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:49:10.157
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:51:27.311
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:51:27.926
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:54:55.459
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 18:54:56.097
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:05:01.144
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:05:01.714
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:10.506
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:10.586
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:10.647
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:13.173
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:13.246
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:13.747
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:13.813
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:13.889
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-08-04 19:07:13.890
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:13.893
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:13.894
+!MESSAGE buffering callback sts4.classpath.amDYYYsQ gettingfam false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:13.896
+!MESSAGE executing callback sts4.classpath.amDYYYsQ 1 batched events
+
+!ENTRY Activator 1 0 2021-08-04 19:07:14.349
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:14.547
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:14.716
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:14.722
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:14.828
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-04 19:07:14.934
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-04 19:07:14.936
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.preview.adapter.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-04 19:07:14.937
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.tomcat.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-04 19:07:14.939
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.http.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-04 19:07:14.941
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.preview.adapter.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:15.409
+!MESSAGE executing callback sts4.classpath.amDYYYsQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:15.412
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:15.424
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:15.432
+!MESSAGE buffering callback sts4.classpath.amDYYYsQ gettingfam false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:15.433
+!MESSAGE executing callback sts4.classpath.amDYYYsQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:15.485
+!MESSAGE executing callback sts4.classpath.amDYYYsQ SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-04 19:07:15.662
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:15.663
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-08-04 19:07:15.664
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:15.675
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:15.682
+!MESSAGE buffering callback sts4.classpath.amDYYYsQ gettingfam false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:15.684
+!MESSAGE executing callback sts4.classpath.amDYYYsQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:15.726
+!MESSAGE executing callback sts4.classpath.amDYYYsQ SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-04 19:07:15.750
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:15.763
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:15.809
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:15.826
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:16.044
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:16.058
+!MESSAGE classpath=66 entries
+
+!ENTRY Activator 1 0 2021-08-04 19:07:16.061
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:16.065
+!MESSAGE buffering callback sts4.classpath.amDYYYsQ gettingfam false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:16.067
+!MESSAGE executing callback sts4.classpath.amDYYYsQ 1 batched events
+
+!ENTRY Activator 1 0 2021-08-04 19:07:16.086
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:16.109
+!MESSAGE executing callback sts4.classpath.amDYYYsQ SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-04 19:07:16.257
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:16.282
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:16.282
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:16.291
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:16.298
+!MESSAGE buffering callback sts4.classpath.amDYYYsQ gettingfam false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:16.300
+!MESSAGE executing callback sts4.classpath.amDYYYsQ 1 batched events
+
+!ENTRY Activator 1 0 2021-08-04 19:07:16.320
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:16.327
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:16.353
+!MESSAGE executing callback sts4.classpath.amDYYYsQ SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-04 19:07:16.385
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:16.386
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:17.683
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:17.684
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:18.020
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:18.020
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:18.109
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-08-04 19:07:18.110
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:18.110
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:18.116
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:18.120
+!MESSAGE buffering callback sts4.classpath.amDYYYsQ gettingfam false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:18.121
+!MESSAGE executing callback sts4.classpath.amDYYYsQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:18.164
+!MESSAGE executing callback sts4.classpath.amDYYYsQ SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-04 19:07:18.339
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:18.390
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:18.449
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:18.456
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:18.461
+!MESSAGE buffering callback sts4.classpath.amDYYYsQ gettingfam false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:18.462
+!MESSAGE executing callback sts4.classpath.amDYYYsQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:18.486
+!MESSAGE executing callback sts4.classpath.amDYYYsQ SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-04 19:07:18.790
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:18.945
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:19.011
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:19.014
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:19.023
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:19.028
+!MESSAGE buffering callback sts4.classpath.amDYYYsQ gettingfam false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:19.030
+!MESSAGE executing callback sts4.classpath.amDYYYsQ 1 batched events
+
+!ENTRY Activator 1 0 2021-08-04 19:07:19.166
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:19.170
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 19:07:19.221
+!MESSAGE executing callback sts4.classpath.amDYYYsQ SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-04 19:07:19.307
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:19.314
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:19.496
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:19.497
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:19.578
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:19.581
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:19.676
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:19.679
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:20.373
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:07:20.374
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:09:16.985
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:09:16.986
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:09:17.568
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:09:17.570
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:11:10.687
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:11:10.688
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:11:11.461
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:11:11.462
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:13:45.066
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:13:45.067
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:13:45.676
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:13:45.677
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:14:26.494
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:14:26.496
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:14:27.112
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:14:27.114
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:24:09.651
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:24:09.652
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:24:10.219
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:24:10.225
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:25:55.361
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:25:55.362
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:25:55.922
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:25:55.922
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:47:48.670
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-04 19:47:48.671
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:47:49.242
+!MESSAGE Has main method computation for project 'gettingfam'
+
+!ENTRY Activator 1 0 2021-08-04 19:47:49.243
+!MESSAGE Has main method computation for project 'firstproject'
