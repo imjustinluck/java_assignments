@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=Notes/src&lt;com.jda.abs{AbstractClass.java[AbstractClass" modifiers="1025" timestamp="1628103152703"/>
+    <typeInfo handle="=Notes/src&lt;com.jda.abs{AbstractDemo.java[AbstractDemo" modifiers="1025" timestamp="1628103958808"/>
+    <typeInfo handle="=Notes/src&lt;com.jda.abs{InterfaceDemo.java[InterfaceDemo" modifiers="513" timestamp="1628103458338"/>
+    <typeInfo handle="=Notes/src&lt;com.jda.inter{OperateBicycle.java[OperateBicycle" modifiers="513" timestamp="1628102215197"/>
+    <typeInfo handle="=Pokemon/src&lt;com.jda.poke{AbstractPokemon.java[AbstractPokemon" modifiers="1025" timestamp="1628115030298"/>
+    <typeInfo handle="=Pokemon/src&lt;com.jda.poke{PokemonInterface.java[PokemonInterface" modifiers="513" timestamp="1628115763845"/>
+    <typeInfo handle="=Phones/src&lt;com.jda.phones{Phone.java[Phone" modifiers="1025" timestamp="1628118624038"/>
+    <typeInfo handle="=Phones/src&lt;com.jda.phones{Ringable.java[Ringable" modifiers="513" timestamp="1628118690209"/>
+</typeInfoHistroy>
